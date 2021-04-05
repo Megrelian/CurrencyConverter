@@ -1,0 +1,11 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+- name: test.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9328#comment
+status: Solved
+record: -1
